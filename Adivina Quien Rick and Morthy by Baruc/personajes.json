@@ -1,0 +1,74 @@
+{
+                "goku": {
+                    "Tiene_cabello amarillo": "True",
+                    "es_hombre": "True",
+                    "viste _traje_de _pelea": "True",
+                    "tiene_el_pelo_negro": "False",
+                    "tiene_cabello_rubio": "True",
+                    "tiene_cabello_azul": "False",
+                    "tiene_vestimenta_naraja": "True",
+                    "tiene_capa": "False",
+                    "tiene_machas_moradas": "False",
+                    "es_un_androide": "False"
+                },
+                "vegeta": {
+                    "Tiene_cabello amarillo": "False",
+                    "es_hombre": "True",
+                    "viste _traje_de _pelea": "True",
+                    "tiene_el_pelo_negro": "True",
+                    "tiene_cabello_rubio": "False",
+                    "tiene_cabello_azul": "False",
+                    "tiene_vestimenta_naraja": "False",
+                    "tiene_capa": "False",
+                    "tiene_machas_moradas": "False",
+                    "es_un_androide": "False"
+                },                
+                "bulma": {
+                    "Tiene_cabello amarillo": "False",
+                    "es_hombre": "False",
+                    "viste _traje_de _pelea": "False",
+                    "tiene_el_pelo_negro": "False",
+                    "tiene_cabello_rubio": "False",
+                    "tiene_cabello_azul": "True",
+                    "tiene_vestimenta_naraja": "False",
+                    "tiene_capa": "False",
+                    "tiene_machas_moradas": "False",
+                    "es_un_androide": "False"
+                },
+                "piccolo": {
+                    "Tiene_cabello amarillo": "False",
+                    "es_hombre": "True",
+                    "viste _traje_de _pelea": "True",
+                    "tiene_el_pelo_negro": "False",
+                    "tiene_cabello_rubio": "False",
+                    "tiene_cabello_azul": "False",
+                    "tiene_vestimenta_naraja": "False",
+                    "tiene_capa": "True",
+                    "tiene_machas_moradas": "False",
+                    "es_un_androide": "False"
+                },
+                "frezer": {
+                    "Tiene_cabello amarillo": "False",
+                    "es_hombre": "True",
+                    "viste _traje_de _pelea": "False",
+                    "tiene_el_pelo_negro": "False",
+                    "tiene_cabello_rubio": "False",
+                    "tiene_cabello_azul": "False",
+                    "tiene_vestimenta_naraja": "False",
+                    "tiene_capa": "False",
+                    "tiene_machas_moradas": "True",
+                    "es_un_androide": "False"
+                },
+                "18": {
+                    "Tiene_cabello amarillo": "False",
+                    "es_hombre": "True",
+                    "viste _traje_de _pelea": "False",
+                    "tiene_el_pelo_negro": "True",
+                    "tiene_cabello_rubio": "False",
+                    "tiene_cabello_azul": "False",
+                    "tiene_vestimenta_naraja": "False",
+                    "tiene_capa": "False",
+                    "tiene_machas_moradas": "False",
+                    "es_un_androide": "True"
+                }
+            }
